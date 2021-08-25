@@ -1,0 +1,10 @@
+Explicación de la funcionalidad de un proyecto realizado en Vuejs 3 con firebase
+
+Link al video de youtube
+https://youtu.be/DfEWy_WV0-8
+
+Proyecto en GitHub
+https://github.com/CarlosCh4799/tutorial-Vuejs-firebase.git
+
+Deploy del proyecto
+https://elated-nobel-777bd7.netlify.app/#/
